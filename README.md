@@ -1,3 +1,5 @@
+Testado em Win11 + wsl ubuntu
+
 ## Build
 ```bash
 docker build -t trype -f Dockerfile .
